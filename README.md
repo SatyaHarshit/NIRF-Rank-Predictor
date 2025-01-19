@@ -21,9 +21,9 @@ The goal of this project is to build a predictive model that can accurately esti
 - **Data Preprocessing:** Cleaned and transformed raw data using **NumPy**, **Pandas**, and **Seaborn**, ensuring data quality and consistency.
 - **Model Evaluation:** Tested multiple regression algorithms, selecting **Random Forest Regressor** as the best-performing model.
 - **Model Performance:** Achieved a high accuracy of **97%**, with performance metrics:
-  - **Mean Absolute Error (MAE):** 2.3
-  - **Mean Squared Error (MSE):** 5.4
-  - **Root Mean Squared Error (RMSE):** 2.32
+  - **Mean Absolute Error (MAE):** 1.0
+  - **Mean Squared Error (MSE):** 2.4
+  - **Root Mean Squared Error (RMSE):** 1.5
 - **Visualization:** Visualized feature importance and model predictions using **Matplotlib** for enhanced interpretability.
 
 
